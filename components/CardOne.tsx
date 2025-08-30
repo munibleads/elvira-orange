@@ -1,4 +1,4 @@
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { Card, CardHeader, CardContent } from "@/components/ui/card";
 import { useState, useEffect, useRef } from "react";
 import { getVapi } from "@/lib/vapi";
 
