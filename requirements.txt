@@ -1,0 +1,9 @@
+opencv-python
+supabase
+requests
+python-dotenv
+websockets>=13.0.0
+pyserial>=3.5
+google-generativeai
+fastapi>=0.104.0
+uvicorn>=0.24.0
